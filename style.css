@@ -60,7 +60,7 @@ html,body{
 }
 .wrapper-container p{
     color: var(--Wenge-Brown);
-    padding-block: 2rem;
+    padding-block: 1rem;
     font-family: var(--ff-outfit);
 }
 .container{
