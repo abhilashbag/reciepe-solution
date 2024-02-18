@@ -53,6 +53,7 @@ html,body{
     height: 100%;
 }
 .wrapper-container h1{
+    font-size: 2.5rem;
     color: var(--Dark-Charcoal);
     font-family: var(--ff-young);
     padding-top: 2rem;
