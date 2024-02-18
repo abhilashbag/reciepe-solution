@@ -43,7 +43,7 @@ html,body{
     background-color: var(--White);
     padding: 2.5rem;
     width: 50%;
-    margin: 9rem 0;
+    margin: 8rem 0;
     border-radius: 1.8rem;
 }
 
@@ -67,7 +67,7 @@ html,body{
     padding-inline: 1rem;
 }
 .container ul{
-    line-height: 2.5;
+    line-height: 2;
 }
 .container ul li{
     color: var(--Wenge-Brown);
@@ -82,7 +82,7 @@ html,body{
 
 }
 .container-down ol{
-    line-height: 2.5;
+    line-height: 2;
 }
 .container-down ol li{
     padding-left: 1rem;
@@ -106,7 +106,7 @@ html,body{
 .preparation ul{
     margin-top: 1rem;
     margin-left: 1rem;
-    line-height: 2.5;
+    line-height: 2;
 }
 .preparation ul li{
     padding-left: 1rem;
