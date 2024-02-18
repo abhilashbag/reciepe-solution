@@ -55,7 +55,7 @@ html,body{
 .wrapper-container h1{
     color: var(--Dark-Charcoal);
     font-family: var(--ff-young);
-    padding-top: 1.5rem;
+    padding-top: 2rem;
     letter-spacing: 1px;
 }
 .wrapper-container p{
@@ -94,7 +94,7 @@ html,body{
 }
 .preparation{
     width: 100%;
-    padding: 2rem;
+    padding: 1.5rem;
     background-color: var(--Rose-White);
     border-radius: 1rem;
 }
@@ -115,7 +115,7 @@ html,body{
 .heading{
     color: var(--Nutmeg);
     font-family: var(--ff-young);
-    margin-block: 1.5rem;
+    margin-block: 1rem;
     letter-spacing: 1px;
 }
 .table{
