@@ -118,6 +118,10 @@ html,body{
     margin-block: 1rem;
     letter-spacing: 1px;
 }
+.para{
+    margin: 10px;
+    
+}
 .table{
     width: 100%;
     border-collapse:collapse ;
